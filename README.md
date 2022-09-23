@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ExpectTM
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ALX SE Programme
 - 💞️ I’m looking to collaborate on different programming language
 - 📫 How to reach me here on GIT
 
